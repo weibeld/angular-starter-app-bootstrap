@@ -2,9 +2,9 @@
 
 Using the following technologies:
 
-- SCSS (for your custom styles instead of plain CSS)
-- [Bootstrap](https://getbootstrap.com/) (for CSS styles)
-- [ng-bootstrap](https://ng-bootstrap.github.io/#/home) (for JavaScript widgets)
+- **SCSS** (for your custom styles instead of plain CSS)
+- [**Bootstrap**](https://getbootstrap.com/) (for CSS styles)
+- [**ng-bootstrap**](https://ng-bootstrap.github.io/#/home) (for JavaScript widgets)
 
 Installation instructions for Bootstrap and ng-bootstrap for an Angular app:
 
